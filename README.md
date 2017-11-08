@@ -1,2 +1,2 @@
 # respositorylocal
-test
+test modjdk
